@@ -5,6 +5,9 @@
 I build intelligent automation systems, AI-powered bots, multi-agent pipelines,
 and SaaS products that solve real business problems — without writing traditional code.
 
+Self-taught and fast-learning — I pick up new tools, frameworks, and concepts quickly
+and am constantly expanding my knowledge. Every project is an opportunity to go deeper.
+
 ---
 
 ## 🚀 What I Build
@@ -23,19 +26,22 @@ and SaaS products that solve real business problems — without writing traditio
 ## 🛠️ Tech Stack
 
 **AI & LLMs**
-Groq (llama-3.3-70b) · OpenAI (GPT-4o) · Gemini · Tavily · NVIDIA API
+Groq (llama-3.3-70b) · OpenAI (GPT-4o / GPT-4o-mini) · Gemini · Claude · Tavily · NVIDIA API · LangChain · Prompt Engineering
 
 **Automation Platforms**
-n8n · Make · Airtable · Zapier
+n8n · Make (Integromat) · Airtable · Zapier · Webhook integrations · API/JSON
 
 **Databases & Vector Search**
-MongoDB Atlas · MySQL · Qdrant · PostgreSQL · Redis
+MongoDB Atlas · MySQL 8.0 · Qdrant · PostgreSQL · Redis · phpMyAdmin
 
 **Dev Tools**
-Python · Docker · Railway · Git · VS Code
+Python · Docker · Docker Compose · Railway · Render · Git · GitHub · VS Code
 
 **No-Code & SaaS Builders**
-Base44 · Supabase · Bolt.new · Lovable
+Base44 · Supabase · Bolt.new · Lovable · Figma (UI/UX Wireframing)
+
+**Integrations & APIs**
+Telegram Bot API · Gmail API · Google Drive API · Google Docs API · WhatsApp API · Apify · Softr
 
 ---
 
@@ -58,7 +64,6 @@ Base44 · Supabase · Bolt.new · Lovable
 
 - 📚 John Bryce — AI & No-Code Automation (240 hours, 9 modules, dual certification)
   - Multi-Agent Systems · RAG Pipelines · Prompt Engineering · UI/UX · Docker
-- 🎬 Yigal Alon High School — Film & Communications Track
 
 ---
 
@@ -74,5 +79,5 @@ Before pivoting to AI & automation, I built a strong foundation in operations an
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/noam-shalev-9127191b8)
-- 📧 noamwork358@gmail.com
+- 📧 shalevn41@gmail.com
 - 🇮🇱 Based in Israel — open to remote & hybrid roles
