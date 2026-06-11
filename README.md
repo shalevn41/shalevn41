@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Noam Shalev 👋
 
-<!--
-**shalevn41/shalevn41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI & No-Code Automation Specialist based in Israel
 
-Here are some ideas to get you started:
+I build intelligent automation systems, AI-powered bots, multi-agent pipelines,
+and SaaS products that solve real business problems — without writing traditional code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Build
+
+- 🤖 Telegram AI bots with real-time web search and memory
+- 🔄 Multi-agent n8n systems with RAG pipelines (Qdrant + MongoDB)
+- ⚙️ Business automation workflows (Make, n8n, Airtable)
+- 🗄️ Data pipelines — MongoDB → Qdrant → MySQL
+- 🌐 SaaS products with no-code tools (Base44, Supabase)
+- 📊 AI-powered lead management and CRM systems
+- 📧 Automated email agents with Gmail + OpenAI
+- 🐳 Docker-based infrastructure for local AI development
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & LLMs**
+Groq (llama-3.3-70b) · OpenAI (GPT-4o) · Gemini · Tavily · NVIDIA API
+
+**Automation Platforms**
+n8n · Make · Airtable · Zapier
+
+**Databases & Vector Search**
+MongoDB Atlas · MySQL · Qdrant · PostgreSQL · Redis
+
+**Dev Tools**
+Python · Docker · Railway · Git · VS Code
+
+**No-Code & SaaS Builders**
+Base44 · Supabase · Bolt.new · Lovable
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 mind-noam-bot | Telegram AI assistant — Hebrew responses + real-time web search + conversation memory | Python · Groq · Tavily · Railway |
+| 🔍 job-hunter-bot | Automated job hunter for Israeli listings — keyword + AI profile matching | Python · Groq · Telegram |
+| 🎓 AI College System | Full multi-agent n8n system — sales agent, learning advisor (RAG), payment workflow, lecturer agent | n8n · Qdrant · MongoDB · GPT-4o · Gmail |
+| 🎬 Movie Semantic Search | Chat-based movie search over 500 films indexed from MongoDB into Qdrant | n8n · Qdrant · OpenAI · MongoDB |
+| 🍽️ MAITRE | Restaurant CRM & marketing automation SaaS — loyalty club, Google Reviews, WhatsApp, God Mode admin | Base44 · Supabase |
+| 📋 Scopify | Discovery call manager + auto SOW generator — Hebrew + English, 3 pricing tiers | Supabase · Claude AI |
+| 📦 Product Pipeline | 194 products from dummyjson → MySQL + Qdrant semantic search | n8n · MySQL · Qdrant |
+| 📧 Sales Agent "Max" | Automated sales email agent — Airtable leads → GPT → Gmail → status update | n8n · Airtable · GPT-4o · Gmail |
+
+---
+
+## 🎓 Education & Certifications
+
+- 📚 John Bryce — AI & No-Code Automation (240 hours, 9 modules, dual certification)
+  - Multi-Agent Systems · RAG Pipelines · Prompt Engineering · UI/UX · Docker
+- 🎬 Yigal Alon High School — Film & Communications Track
+
+---
+
+## 💼 Background
+
+Before pivoting to AI & automation, I built a strong foundation in operations and management:
+- 📦 Import Coordinator @ UPS (2025–present)
+- 🐾 Branch Manager @ Anifit (2023–2024) — rapid promotion from sales to management
+- 🏥 Logistics Coordinator @ Shamir Medical Center, National Service (2020–2023)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/noam-shalev-9127191b8)
+- 📧 noamwork358@gmail.com
+- 🇮🇱 Based in Israel — open to remote & hybrid roles
