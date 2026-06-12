@@ -52,11 +52,8 @@ Telegram Bot API · Gmail API · Google Drive API · Google Docs API · WhatsApp
 | 🤖 mind-noam-bot | Telegram AI assistant — Hebrew responses + real-time web search + conversation memory | Python · Groq · Tavily · Railway |
 | 🔍 job-hunter-bot | Automated job hunter for Israeli listings — keyword + AI profile matching | Python · Groq · Telegram |
 | 🎓 AI College System | Full multi-agent n8n system — sales agent, learning advisor (RAG), payment workflow, lecturer agent | n8n · Qdrant · MongoDB · GPT-4o · Gmail |
-| 🎬 Movie Semantic Search | Chat-based movie search over 500 films indexed from MongoDB into Qdrant | n8n · Qdrant · OpenAI · MongoDB |
-| 🍽️ MAITRE | Restaurant CRM & marketing automation SaaS — loyalty club, Google Reviews, WhatsApp, God Mode admin | Base44 · Supabase |
-| 📋 Scopify | Discovery call manager + auto SOW generator — Hebrew + English, 3 pricing tiers | Supabase · Claude AI |
-| 📦 Product Pipeline | 194 products from dummyjson → MySQL + Qdrant semantic search | n8n · MySQL · Qdrant |
-| 📧 Sales Agent "Max" | Automated sales email agent — Airtable leads → GPT → Gmail → status update | n8n · Airtable · GPT-4o · Gmail |
+| 🗄️ n8n Data Pipelines | Data pipelines + AI agents — MongoDB, MySQL, Qdrant, Redis, RAG | n8n · OpenAI · Qdrant · MySQL · Redis |
+| 🍽️ MAITRE | Restaurant CRM & marketing automation SaaS — loyalty club, Google Reviews, WhatsApp | Base44 · Supabase · React |
 
 ---
 
